@@ -1,4 +1,4 @@
-# Image_Generartor
+# Image_Generator
 In this world of Artificial Intelligence, automation
 is the next big thing. We have apps that can code and 
 make rap songs.<br>
